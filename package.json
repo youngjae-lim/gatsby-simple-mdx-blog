@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/youngjae-lim/gatsby-simple-mdx-blog.git"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
