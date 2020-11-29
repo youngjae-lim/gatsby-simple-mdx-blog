@@ -11,8 +11,6 @@ export const Nav = () => {
     }
   `)
 
-  console.log(data)
-
   return (
     <NavWrapper>
       <Link to="/">
