@@ -117,6 +117,10 @@ export const PostWrapper = styled.main`
     padding: 0 0.3rem;
   }
 
+  pre {
+    margin-bottom: 1.5rem;
+  }
+
   hr {
     border: 0;
     height: 1px;
